@@ -22,6 +22,8 @@ public class Heranca {
        carro.setNumPortas(3);
        carro.setNumRodas(4);
        carro.setCapacidade(2);
+       carro.imprimirCarro();
+       
        
     }
     
