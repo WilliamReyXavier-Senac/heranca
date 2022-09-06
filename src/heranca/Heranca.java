@@ -21,8 +21,13 @@ public class Heranca {
        carro.setNumPlaca("BIG123");
        carro.setNumPortas(3);
        carro.setNumRodas(4);
-       carro.setCapacidade(2);
+       carro.setCapacidade(5);
        carro.imprimirCarro();
+        System.out.println("------------");
+       moto.setNumPlaca("SMAG323");
+       moto.setNumRodas(2);
+       moto.setCapacidade(2);
+       moto.imprimirMoto();
        
        
     }
