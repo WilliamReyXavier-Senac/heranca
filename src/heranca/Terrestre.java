@@ -9,7 +9,7 @@ package heranca;
  *
  * @author willian.xavier
  */
-public class Terrestre {
+public class Terrestre extends Transporte{
     private int numRodas;
 
     public int getNumRodas() {
